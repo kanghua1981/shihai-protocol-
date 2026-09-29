@@ -1,0 +1,13 @@
+# Agent 运行状态（会话记录、插件、todo 等），非小说内容
+.agent/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.bak
+*~
